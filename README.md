@@ -1,4 +1,4 @@
-# Exploring Amazon's Book Diversity : EDA
+# Exploring Amazon's Book Diversity 
 
  ## Overview
 This project explores an Amazon Books dataset, focusing on genre, sub-genre, and book details. We perform exploratory data analysis (EDA) using MySQL to gain insights into the dataset.
